@@ -1,6 +1,6 @@
 # TodoListApplication
 # This is TodoList Application by using React.js and Springboot
-
+Hi 👋, I'm Suprakash Mandal
 
 #To run this application
 ----------------------
@@ -11,7 +11,7 @@
 
 -----------------------
 
-#Backend -(springboot) ----IDE used STS
+#Backend -(springboot) ----IDE used STS(recommended)
 ----------------------------------------
 
 #step-3: open backend in sts or ay other springboot supported IDE
@@ -24,7 +24,7 @@
 
 --------------------------
 
-#Frontend - recommended----Visual Studio Code
+#Frontend -(ReactJs)  ----Visual Studio(recommended)  
 ------------------------------------------
 step-6: open frontend application in Visual studio code
 
