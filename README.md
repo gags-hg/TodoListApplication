@@ -1,6 +1,6 @@
 # TodoListApplication
 # This is TodoList Application by using React.js and Springboot
-Hi 👋, I'm Suprakash Mandal
+Hi 👋, I'm Gagan G
 
 #To run this application
 ----------------------
